@@ -87,7 +87,7 @@
 | Demo | What | Lesson |
 |------|------|--------|
 | [Wordle SMS](https://github.com/elizabethsiegle/wordle-sms) | Built in 1 day during Wordle mania | *Hustle to match the moment.* |
-| [Stephen Smith-ify Commentary](https://x.com/lizziepika/status/1735375100357296580/video/1) | Audio commentary + GPT-4V | *Use pop culture hooks to have fun.* |
+| [Stephen Smith-ify Commentary](https://x.com/lizziepika/status/1735375100357296580/video/1) | Audio commentary + GPT-4V | *Use pop culture hooks to have fun. Humanizing, surprising video* |
 | [NBA Finals Voting App](https://github.com/elizabethsiegle/nba-finals-poll) | Stateful poll with Workers AI + Hono | *People love interactivity.* |
 | [International Joke Day Generator](https://github.com/elizabethsiegle/joke-day-ai) | AI joke gen app | *Reuse code. Small but mighty. Always be building* |
 | [Mask Detector with ml5.js](https://x.com/i/status/1417647739295322113) | Visual mask-detection demo as masks returned | *Visual + relevant* |
@@ -100,7 +100,9 @@
 - Developer ❤️
 ---
 
-## 🧠 Final Takeaway
+## 🧠 Final Takeaways
+> Make 1 project both a SEO AND social media hit.
+
 > Why do you build?
 
 > Thank you, Ricky && Andrew!
@@ -109,5 +111,5 @@
 
 > People can tell—&& it’s contagious and gets them talking.
 
-QR code!
+
 
