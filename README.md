@@ -47,7 +47,7 @@
 - [Twitter video](https://x.com/lizziepika/status/1611061717701693456) 
 - [Video](https://x.com/lizziepika/status/1736092971748192516)  
 - [GitHub Repo](https://github.com/elizabethsiegle/gemini-multimodal-chat/) 
-- Simple uses but good timing and I was the first: built and posted the *same night* a new Gemini model dropped  
+- Simple uses but I was the first: built and posted the *same night* a new Gemini model dropped  
 - **Lesson:** *Timing beats complexity. Be early, even if it’s simple.*
 </details>
 
@@ -71,12 +71,12 @@
 <details>
 <summary><strong>5. Python🐍 SMS☎️ Sea Shanty </strong></summary>
 
-- [Sea Shanty SMS TikTok](https://x.com/lizziepika/status/1350874684200757249) 
+- [Sea Shanty SMS TikTok](https://www.tiktok.com/@lizziepikachu/video/6956720566501903622) 
 - **Lesson:** *Remix what's already popular. Catchy.* 
 </details>
 
 
-- [ ] Rapid-Fire Demos
+- [ ] Rapid-Fire🔥 Demos
 
 - **Always be building** | Treat demos like sketches. Don’t wait for “perfect.” 
 
@@ -88,9 +88,9 @@
 |------|------|--------|
 | [Wordle SMS](https://github.com/elizabethsiegle/wordle-sms) | Built in 1 day during Wordle mania | *Hustle to match the moment.* |
 | [Stephen Smith-ify Commentary](https://x.com/lizziepika/status/1735375100357296580/video/1) | Audio commentary + GPT-4V | *Use pop culture hooks to have fun.* |
-| [NBA Finals Voting App](https://github.com/elizabethsiegle/nba-finals-poll) | Stateful poll with Workers AI + Hono | *People love interactive content.* |
-| [International Joke Day Generator](https://github.com/elizabethsiegle/joke-day-ai) | AI joke gen app | *Even small efforts help you stay visible.* |
-| [Mask Detector with ml5.js](https://x.com/i/status/1417647739295322113) | Visual mask-detection demo as masks returned | *Visual + relevant = share magnet.* |
+| [NBA Finals Voting App](https://github.com/elizabethsiegle/nba-finals-poll) | Stateful poll with Workers AI + Hono | *People love interactivity.* |
+| [International Joke Day Generator](https://github.com/elizabethsiegle/joke-day-ai) | AI joke gen app | *Reuse code. Small but mighty. Always be building* |
+| [Mask Detector with ml5.js](https://x.com/i/status/1417647739295322113) | Visual mask-detection demo as masks returned | *Visual + relevant* |
 
 - [ ] How to Measure Success
 
@@ -102,6 +102,8 @@
 
 ## 🧠 Final Takeaway
 > Why do you build?
+
+> Thank you, Ricky!
 
 > **Build fast. Tie it to the moment. Have fun.** 
 
