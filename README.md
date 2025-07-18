@@ -23,8 +23,8 @@
 
 - [ ] Why Piggyback?
 
-- **Social media > SEO**  
-  Timely content spreads faster than perfect content.
+- **Social media, !SEO**  
+  Timely content spreads faster than regular content.
 
 - **Mind-share is fleeting**  
   Trends are short-lived. Attention is a currency—strike while hot.
@@ -112,4 +112,4 @@
 > People can tell—&& it’s contagious and gets them talking.
 
 
-
+QR code!
