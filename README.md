@@ -3,7 +3,7 @@
 ---
 - [ ] $whoami?
 
-<img src="pics/lizziemikkelhandpong.png" width="400" alt="me">
+<img src="https://github.com/elizabethsiegle/piggybackingforpopularitydevrelcontalk/blob/main/pics/lizziemikkelhandpong.png?raw=true" width="400" alt="me">
 
 - [ ] capitalize on current trends && lessons learned
 
